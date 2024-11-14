@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Learn the Truth About Darkwick Academy
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+We are a fan supported version of WickChat. Check here for the latest information, rumors, and news from Darkwick Academy.
