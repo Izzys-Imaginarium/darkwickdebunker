@@ -8,5 +8,5 @@ permalink: /anomalies/
 * content
 {:toc}
 
-#Anomalies Sighted
+# Anomalies Sighted
 Be on the lookout
